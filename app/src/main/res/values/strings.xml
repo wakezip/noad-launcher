@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NOAD Home</string>
+    <string name="home_key_desc">Hace que el botón Inicio abra NOAD Home.</string>
+</resources>
